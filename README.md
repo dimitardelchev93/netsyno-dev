@@ -31,7 +31,7 @@ Add the `inopai-dev.project-path` setting for your vs code
 ```
 {
   inopai-dev.project-path: "~/projects/inopai", // path to inopai project folder (REQUIRED),
-  inopai-dev.autostart: 0, // zero for no autostart or taskset id (default: 0),
+  inopai-dev.autostart: "run-locally", // zero for no autostart or taskset id (default: 0),
 }
 ```
 
